@@ -1,0 +1,37 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "My first React",
+  "keywords": [
+    "React"
+  ],
+  "homepage": "https://github.com/Chinmaya-droid0/React#readme",
+  "bugs": {
+    "url": "https://github.com/Chinmaya-droid0/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinmaya-droid0/React.git"
+  },
+  "license": "ISC",
+  "author": "Chinmaya",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel  01_Basics/index.html",
+    "build": "parcel build 01_Basics/index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist": [
+    "last 2 Chrome version",
+    "last 2 Safari version",
+    "last 2 Firefox version",
+    "last 2 Edge version"
+  ]
+}
