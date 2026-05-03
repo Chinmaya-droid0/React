@@ -1,5 +1,5 @@
 # React
-The Place Where i Learn React
+Learning React
 
 # Parcel
 - Dev Build
